@@ -29,4 +29,4 @@ sql/
 
 ## Related
 
-- [ks-strawberry-archive](https://github.com/lamutara/ks-strawberry-archive) — Perl CGI predecessor (circa 2011–2017)
+- [ks-strawberry-archive](https://github.com/kimari-s/ks-strawberry-archive) — Perl CGI predecessor (circa 2011–2017)
